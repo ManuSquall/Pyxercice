@@ -42,5 +42,7 @@ def exo2_2():
             b+=1
         print(end="\n")
 
-def exo3_1
+def exo3_1():
+    return 0
+
            
