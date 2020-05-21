@@ -1,3 +1,3 @@
 from fonctions import *
 
-exo20()
+exo2b()
